@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/Code-HTML-orange)  
 ![CSS](https://img.shields.io/badge/Code-CSS-blue)  
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
+![Blockchain](https://img.shields.io/badge/Blockchain-Alephium-informational)  
 <!--![SQL](https://img.shields.io/badge/Code-SQL-lightgrey)  
 ![Figma](https://img.shields.io/badge/Design-Figma-purple)  -->
-![Blockchain](https://img.shields.io/badge/Blockchain-Alephium-informational)  
 
 ---
 
@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 
 ## 🌐 Find Me Here  
 [![Twitter](https://img.shields.io/badge/Twitter-@alphvibes-blue)](https://x.com/alphvibes)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-david-peluola-6b45761b41-lightblue)](#)  
 [![Telegram](https://img.shields.io/badge/Telegram-@dpeluola-blue)](#)  
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-david-peluola-6b45761b41-lightblue)](#)  -->
 
 ---
 
