@@ -16,8 +16,10 @@ I'm a Front-End Developer with a passion for building scalable, user-centric web
 * **Interests:** Web3, AI-powered development, UI/UX
 
 ### 📈 GitHub Stats
-![Adeolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adeolu05&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeolu05&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeolu05&show_icons=true&theme=radical&cache_seconds=1800" height="165" alt="Adeolu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeolu05&layout=compact&theme=radical&cache_seconds=1800" height="165" alt="Top Languages" />
+</div>
 
 ### 📫 Let's Connect
 * **Portfolio:** [dpeluola.com](https://dpeluola.com)
