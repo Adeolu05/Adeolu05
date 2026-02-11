@@ -17,8 +17,7 @@ I'm a Front-End Developer with a passion for building scalable, user-centric web
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeolu05&show_icons=true&theme=radical&cache_seconds=1800" height="165" alt="Adeolu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeolu05&layout=compact&theme=radical&cache_seconds=1800" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeolu05&theme=radical" alt="Adeolu's GitHub Streak" />
 </div>
 
 ### 📫 Let's Connect
