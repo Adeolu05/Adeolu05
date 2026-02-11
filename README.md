@@ -1,62 +1,25 @@
-<!-- ## Hi there 👋-->
+# Hi there, I'm Adeolu 👋
 
-<!--
-**Adeolu05/Adeolu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer with a passion for building scalable, user-centric web applications and exploring the bleeding edge of Web3 and AI tech. 
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+* 🎓 Currently studying Software Engineering (200 Level) at Miva Open University.
+* 💼 Currently doing my SIWES internship at HiiT.
+* 🌐 Check out my portfolio at [dpeluola.com](https://dpeluola.com)
+* 💡 I have a strong interest in Web3, specifically building and advocating within the Solana and Alephium ecosystems.
+* 🚀 Always experimenting with new AI development tools to optimize my workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm David Peluola 
-### Aspiring Web Developer | Blockchain Advocate 
+### 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, Python, C
+* **Frameworks & Libraries:** React, Next.js, Vite
+* **Tools:** Git, GitHub, Sanity (Headless CMS)
+* **Interests:** Web3, AI-powered development, UI/UX
 
-## About Me
-- 🌱 **Currently Learning**: HTML, CSS, JavaScript, SQL, and UI/UX with Figma.  
-- 🛠️ **Working On**:  
-  - Developing DApps Portfolio creation.  
-  - Alephium blockchain projects: myonion.fun and HABIBI.  
-  - Hosting Twitter Spaces.  
+### 📈 GitHub Stats
+![Adeolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adeolu05&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeolu05&layout=compact&theme=radical)
 
-- 🎯 **Goals for 2025**:  
-  - Master full-stack web development.  
-  - Create user-friendly DApps and blockchain tools.  
-  - Launch engaging motion graphics projects highlighting Alephium.  
-
-- 💬 **Let’s Connect**: I enjoy brainstorming about blockchain, development, and creative ideas. Let’s build together!  
-
----
-
-## 🛠 Tech Stack  
-![HTML](https://img.shields.io/badge/Code-HTML-orange)  
-![CSS](https://img.shields.io/badge/Code-CSS-blue)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
-![Blockchain](https://img.shields.io/badge/Blockchain-Alephium-informational)  
-<!--![SQL](https://img.shields.io/badge/Code-SQL-lightgrey)  
-![Figma](https://img.shields.io/badge/Design-Figma-purple)  -->
-
----
-
-<!--## 🚀 Featured Projects  
-- [myonion.fun](#): Meme launchpad built on Alephium blockchain.  
-- [$MOGA (Onion Token)](#): A meme token project integrating staking and rewards.  
-- [Alephium Motion Graphics](#): A mobile-created series of 2024 blockchain highlights.  
-- [UI/UX Portfolio](#): Featuring web and dApp designs from Figma.  -->
-
----
-
-## 🌐 Find Me Here  
-[![Twitter](https://img.shields.io/badge/Twitter-@alphvibes-blue)](https://x.com/alphvibes)  
-[![Telegram](https://img.shields.io/badge/Telegram-@dpeluola-blue)](#)  
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-david-peluola-6b45761b41-lightblue)](#)  -->
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeolu05&show_icons=true)
+### 📫 Let's Connect
+* **Portfolio:** [dpeluola.com](https://dpeluola.com)
+* **LinkedIn:** [https://linkedin.com/in/david-peluola-6b45761b4]
+* **Twitter/X:** [https://twitter.com/alphvibes]
