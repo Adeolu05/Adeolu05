@@ -21,5 +21,5 @@ I'm a Front-End Developer with a passion for building scalable, user-centric web
 
 ### 📫 Let's Connect
 * **Portfolio:** [dpeluola.com](https://dpeluola.com)
-* **LinkedIn:** [https://linkedin.com/in/david-peluola-6b45761b4]
-* **Twitter/X:** [https://twitter.com/alphvibes]
+* **LinkedIn:** https://linkedin.com/in/david-peluola-6b45761b4
+* **Twitter/X:** https://twitter.com/alphvibes
