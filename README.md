@@ -10,7 +10,7 @@ I'm a Front-End Developer with a passion for building scalable, user-centric web
 * 🚀 Always experimenting with new AI development tools to optimize my workflow.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** JavaScript, Python, C
+* **Languages:** TypeScript, JavaScript, Python, C
 * **Frameworks & Libraries:** React, Next.js, Vite
 * **Tools:** Git, GitHub, Sanity (Headless CMS)
 * **Interests:** Web3, AI-powered development, UI/UX
