@@ -3,7 +3,7 @@
 I'm a Front-End Developer with a passion for building scalable, user-centric web applications and exploring the bleeding edge of Web3 and AI tech. 
 
 ### 👨‍💻 About Me
-* 🎓 Currently studying Software Engineering (200 Level) at Miva Open University.
+* 🎓 Currently studying Software Engineering (300 Level) at Miva Open University.
 * 💼 Currently doing my SIWES internship at HiiT.
 * 🌐 Check out my portfolio at [dpeluola.com](https://dpeluola.com)
 * 💡 I have a strong interest in Web3, specifically building and advocating within the Solana and Alephium ecosystems.
