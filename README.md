@@ -20,10 +20,10 @@ I ship things people can use: live demos, tests, CI and verifiable results. Base
 
 ### 🛠️ Stack
 
-**Frontend:** TypeScript, React, Next.js, Vite, Tailwind
-**Backend:** Node.js, Python (FastAPI, Django), Postgres, Redis
-**Web3:** Zcash, NEAR (Rust contracts), Solana
-**Shipping:** Vercel, Railway, Docker, GitHub Actions, Sanity, WooCommerce
+- **Frontend:** TypeScript, React, Next.js, Vite, Tailwind
+- **Backend:** Node.js, Python (FastAPI, Django), Postgres, Redis
+- **Web3:** Zcash, NEAR (Rust contracts), Solana
+- **Shipping:** Vercel, Railway, Docker, GitHub Actions, Sanity, WooCommerce
 
 ### 🔭 Right now
 
