@@ -28,7 +28,7 @@ I ship things people can use: live demos, tests, CI and verifiable results. Base
 ### 🔭 Right now
 
 - Building privacy tooling in the Zcash ecosystem
-- Contributing to ZecHub docs and bounties
+- Contributing to ZecHub: my [Deposit Check](https://zechub.wiki/tools?tool=deposit-check) and [Linkability Check](https://zechub.wiki/tools?tool=linkability) tools are live on the ZecHub wiki
 - Open to **freelance web builds** and **Web3 tooling work**
 
 ### 📫 Work with me
